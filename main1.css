@@ -26,8 +26,8 @@ nav ul {
 
 nav ul li {
     display: inline;
-    text-align: center;
     padding: 20px;
+    text-align: center;
 }
 
 nav ul li a {
@@ -96,7 +96,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-family: 'Rowdies', cursive;
     text-align: center;
-    margin-right: 100px;
+    padding: 20px;
 }
 
 .semhead {
