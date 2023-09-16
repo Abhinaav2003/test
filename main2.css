@@ -26,8 +26,8 @@ nav ul {
 
 nav ul li {
     display: inline;
-    text-align: center;
     padding: 20px;
+    text-align: center;
 }
 
 nav ul li a {
@@ -42,12 +42,12 @@ nav ul li a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 10px;
+    padding: 20px;
 }
 
 .menu-item {
     width: 300px;
-    margin: 10px;
+    margin: 20px;
     padding: 20px;
     text-align: center;
     border: 1px solid #ddd;
@@ -96,6 +96,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-family: 'Rowdies', cursive;
     text-align: center;
+    padding: 20px;
 }
 
 .semhead {
@@ -113,5 +114,8 @@ body {
     text-decoration: none;
 }
 
-
+.link {
+    display: inline;
+    text-decoration: none;
+}
 
