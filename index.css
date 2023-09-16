@@ -73,6 +73,7 @@ button {
     font-family: 'Rowdies', cursive;
     font-size: 20px;
     display: inline;
+    text-decoration: none;
 }
 
 footer {
